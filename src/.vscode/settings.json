@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "constants.h": "c",
+        "admin.h": "c",
+        "customer.h": "c"
+    }
+}

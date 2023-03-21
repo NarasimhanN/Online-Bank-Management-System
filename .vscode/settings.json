@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "admin.h": "c",
+        "crypt.h": "c"
+    }
+}
